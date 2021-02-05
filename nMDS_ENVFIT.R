@@ -58,3 +58,7 @@ ggplot(data = NMDS, aes(MDS1, MDS2))+  #plot
     legend.box.just = "right",
     legend.margin = margin(6, 6, 6, 6)
   )
+
+
+
+
